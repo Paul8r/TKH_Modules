@@ -1,0 +1,33 @@
+Paul Rojas 
+July 15, 2021
+Homework Assignment “What is an Operating System”
+The Knowledge House 
+
+“Module 2 Reading and Reflection”
+1) Explain in your own words what is an Operating System?
+
+An operating system is system software that manages the basics task. It allows communication to occur between the user and the hardware. The basics function that the operating system operates take place in Memory Management, Process Management, Device Management, File Management, Security, Control Over System Performance, Job Accounting, Error detecting aids, Coordination between other software and user. 
+
+2) Describe the types of Operating Systems.
+
+The type of Operating Systems mention in the article is  Batch Operating System, Time- Sharing Operating System, Disturbed Operating System, Network Operating System,  and Real-Time Operating System.  The Batch Operating System does not interact with computers directly. The operator takes similar jobs and if they meet the similar requirement is batch together.  Time-Sharing Operating System allows many individuals from different terminals to use the computer system at the same time.  Distributed allows multiple CPUs to be used at the same time to serve multiples users and their applications. Network Operating System runs on the server and provides proficiency for users, groups, application network function, and securities for the data to be managed. Real-Time Operating System is when processing and response of the inputs are very small and is used for the data processing system to control its environment.
+
+
+3) Explain: what are the services of an OS Subsystem. 
+
+The services for an OS subsystem are the Kernel I/O subsystem. The Kernel I/O subsystem is separated into scheduling, buffering, caching, spooling, device restoration, in addition to error handling. The scheduling sets an I/O request and determines a good order in which it will execute.  It improves its efficiency and the average response given by the system.  Buffering allows the memory area to store data transferred between two devices. For example, a device and an application operation. Buffering provides adaptation for data that have different transfer sizes.  Caching provides a copy of data that allows a cache region to access fast memory and is more efficient than the original. While Spoiling and Device Restoration is a buffer that holds output for the devices. Error Handling protects memories that can guard against application or hardware errors. 
+
+
+
+
+
+
+4) Explain Portability in your own words. 
+
+Portability is when software can run on a different platform or hardware from the one originally designed for the same way.  An example of this will be Linux Kernel supporting their application in any available programs.  Another example, FACETIME app from apple MACOS/IOS working in Windows 11 or Android OS.
+
+5) Explain Network Topology. 
+
+Network topology is when nodes and links distribute within the Content Distribution Network.  It's the network to communicate with each other. Network Topology can be physical or logical. The network distributes to LAN in 5 different topologies (Mesh, Star, Bus, Ring, Hybrid. 
+
+
