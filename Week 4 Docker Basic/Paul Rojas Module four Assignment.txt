@@ -1,0 +1,22 @@
+Paul Rojas 
+July 30, 2021
+Homework Assignment “What is Docker”
+The Knowledge House   
+
+			Module Four Docker Fundamentals 
+
+1) In your own word explain at his core what a computer is really doing whenever you type a letter on his keyboard?
+
+  When the user types a letter on his keyboard, the letter type sends an input to the computer. The input is giving a signal to the CPU on what objective you want it to perform. As the computer is processing the input the given objective it will send an output to the monitor to display the result.  
+
+2) Explain in your own words what are the uses of Docker? 
+
+ Docker is a development tool that assists developers and system admin to situate in containerization that will be allowed to operate as an open platform.  As an open platform for developing, shipping, and running applications. Dockers use tooling that helps create and use containerization that is required to flourish its applications. The containerization distributes and tests the applications that are developing.  At the same time, it uses the system it tested and deploys locally, on cloud services, or both as a hybrid. When the testing is complete pushing the updated imagine of the Production Environment its customer can receive the fix update.
+
+3) Explain why is Docker recommended? 
+
+    The main reason docker is recommended is the flexibility to run multiple applications on the same hardware compared to others. For developers is easy to create containerization application. Deploying and managing applications is easy as well.  Compare to virtual machines Docker doesn't include contradictions in different setups when running. Develop don't have lots of time.  The number of features that decide is functionality included are sizes, startup, and integration that are very useful for developers.
+
+4) Explain what are the Main features of Docker? 
+
+    Docker featured an option to run on any platform that allows it to be local, deployed, or tested on the cloud platform. Docker is space-friendly and offers high flexibility in its usage. The updates that occur within Docker can be facilitated easily by the developers.  The convenience features make it easier to move files.  Size, Setup, and Integration are what make developers prefer Docker. 
