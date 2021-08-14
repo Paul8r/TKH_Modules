@@ -1,0 +1,22 @@
+Paul Rojas 
+August 5, 2021
+Homework Assignment “What is a Programming”
+The Knowledge House   
+
+		
+Module Five Python Programming
+1) Explain in your own words what is Python?
+
+ Python is a multipurpose programming language. It has a simple syntax that allows it to be readable much easier compared to others programming.  Python can be for data types, mathematical computation, lines of codes, compound data structures, conditionals, loops, and functions, object-oriented programming, and using external libraries.  
+
+2) Explain Data Python Data Types?
+
+ Python data types are the classification of data items. It demonstrates the value, operations, and different types of classes that can function on specific data.  The built-in data types for Python are Numeric, Sequence, Mapping, Set, Boolean, and Binary Text.
+
+3) Explain in your own words what a function? 
+
+A function is a group of code that performs operations on data that allows data to be return once completed. The only time a function run is when it's called. The return output data are readable, reusable, and saves time. We recalled the function by writing the specific name after def followed by parenthesis. After the specifics name recall, we will write the arguments.
+
+4) Explain the python print statement?
+
+Python print statement print a specific message to unveil on the screen. To display the specific messages, you will have to type Print followed by the object or string and message. For example, Print (Hello World). Tells to print out the line Hello World.
